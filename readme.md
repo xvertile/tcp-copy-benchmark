@@ -29,7 +29,7 @@ const (
 )
 
 var (
-	message       = generateRandomString(10240) // Generate a 1kb random string
+	message       = generateRandomString(10240) // Generate a 10kb random string
 	messageLength = len(message)
 )
 ```
