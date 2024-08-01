@@ -45,10 +45,10 @@ Tested on a base Hetzner instance with the following specifications:
 The benchmark results are summarized as follows:
 
 - **Execution Times (ns/op)**:
-  ![Benchmark Results (ns/op)](images/Benchmark Results ns_op.png)
+  ![Benchmark Results (ns/op)](https://raw.githubusercontent.com/xvertile/tcp-copy-benchmark/main/images/Benchmark%20Results%20ns_op.png)
 
 - **CPU Time (ms)**:
-  ![Benchmark CPU Time](images/Benchmark CPU Time.png)
+  ![Benchmark CPU Time](https://raw.githubusercontent.com/xvertile/tcp-copy-benchmark/main/images/Benchmark%20CPU%20Time.png)
 
 ### Top 3 Methods with Least CPU Usage
 
@@ -56,7 +56,7 @@ The benchmark results are summarized as follows:
 2. **IoPipe**: 3140 ms
 3. **IoCopy**: 5940 ms
 
-![Top 3 Profiles with Least CPU Usage](images/Top 3 Profiles with Least CPU Usage.png)
+![Top 3 Profiles with Least CPU Usage](https://raw.githubusercontent.com/xvertile/tcp-copy-benchmark/main/images/Top%203%20Profiles%20with%20Least%20CPU%20Usage.png)
 
 ## Analysis
 
